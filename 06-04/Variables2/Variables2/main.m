@@ -16,7 +16,10 @@ int main(int argc, const char * argv[]) {
         NSDictionary *marvelComicsHeros = @{@"Thor":@"Blake",@"Hulk":@"Dr.Banner",@"Spiderman":@"P.Parker",@"Ghostrider":@"J.Blaze"};
         NSLog(@"%@",marvelComicsHeros);
         
-              
+       //Kaisha Forked this up...
+        NSLog(@"%@",carvelComicsZeros)
+
+        
     }
     return 0;
 };
